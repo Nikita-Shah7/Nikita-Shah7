@@ -1,16 +1,31 @@
-### Hi there 👋
 
-<!--
-**Nikita-Shah7/Nikita-Shah7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hi👋,<br>This is Nikitå Shah!</h2>
+</br>
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Html](https://img.shields.io/badge/html-e05125?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS](https://img.shields.io/badge/css-6600c1?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/Css/)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-e75fff?style=for-the-badge&logo=bootstrap&logoColor=black)](https://getbootstrap.com/docs/4.1/getting-started/)
+
+</br>
+
+## About Me
+<ul>
+<li>Web development enthusiast and a learner always...:rocket:</li>
+<li>Have created some small projects...:books:</li>
+<li>Looking forward for new opportuniities...:dizzy:</li>
+</ul>
+</br>
+
+
+## 📫 Connect with me...
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-shah-1aa350251)
+
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_nikita_shah?s=08)
+
+[![twitter](https://img.shields.io/badge/instagram-e75?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nikita_shah_78?igshid=ZDdkNTZiNTM=)
+
+
+
