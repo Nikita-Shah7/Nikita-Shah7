@@ -8,6 +8,7 @@
 [![CSS](https://img.shields.io/badge/css-6600c1?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/Css/)
 [![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-e75fff?style=for-the-badge&logo=bootstrap&logoColor=black)](https://getbootstrap.com/docs/4.1/getting-started/)
+
 [![ReactJS](https://img.shields.io/badge/reactjs-blue?style=for-the-badge&logo=react&logoColor=white)](https://legacy.reactjs.org/docs/getting-started.html)
 [![Django](https://img.shields.io/badge/django-008000?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.2/) 
 </br>
