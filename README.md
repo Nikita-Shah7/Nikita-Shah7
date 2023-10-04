@@ -22,8 +22,7 @@
 [![Express](https://img.shields.io/badge/express-darkred?style=for-the-badge&logo=express&logoColor=white)](http://expressjs.com/)
 [![Python](https://img.shields.io/badge/python-0A66C2?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![Django](https://img.shields.io/badge/django-008000?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.2/) 
-
-<!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 
 </br>
 
