@@ -23,7 +23,8 @@
 [![Python](https://img.shields.io/badge/python-0A66C2?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/)
 [![Django](https://img.shields.io/badge/django-052E10?style=for-the-badge&logo=django&logoColor=white)](https://docs.djangoproject.com/en/4.2/)
 [![PostgreSQL](https://img.shields.io/badge/postgresql-31648c?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/) 
+[![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
+[![PowerBI](https://img.shields.io/badge/powerbi-gold?style=for-the-badge&logo=powerbi&logoColor=white)](https://learn.microsoft.com/en-us/power-bi/)
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=postgres&theme=dark)](https://skills.thijs.gg) -->
 
 <!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
@@ -50,6 +51,4 @@
 
 ## 📫 Connect with me...
 <p align="left">
-<a href="https://www.linkedin.com/in/nikita-shah-1aa350251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-shah-1aa350251" height="30" width="40" /></a>
-<a href="https://instagram.com/nikita_shah_78?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikita_shah_78" height="30" width="40" /></a>
-<a href="https://twitter.com/_nikita_shah?s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nikita_shah" height="30" width="40" /></a><a href="https://www.leetcode.com/n_209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n_209" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikita-shah-1aa350251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-shah-1aa350251" height="30" width="40" /></a><a href="https://www.leetcode.com/n_209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="n_209" height="30" width="40" /></a>
